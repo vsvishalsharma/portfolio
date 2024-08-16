@@ -1,5 +1,5 @@
 <h1 align="center">
-  gaurav-sarage.vercel.app
+  vishal_sharma.vercel.app
 </h1>
 
 <p align="center">
@@ -42,7 +42,7 @@
 ###### Please give me proper credit by linking back to [gaurav-sarage.vercel.app](https://gaurav-sarage.vercel.app/).
 
 ```bash
-  git clone https://github.com/gaurav-sarage/portfolio-website.git
+  git clone https://github.com/vsvishalsharma/portfolio-website.git
 ```
 
 2. Go to the project directory
